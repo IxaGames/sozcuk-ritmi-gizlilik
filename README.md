@@ -1,2 +1,3 @@
 # sozcuk-ritmi-gizlilik
-Sözcük Ritmi gizlilik politikası
+
+Tasindi: https://ixagames.com.tr/gizlilik/
